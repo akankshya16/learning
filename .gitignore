@@ -12,3 +12,9 @@
 **/*.class
 **/*.dex
 
+
+# Android build outputs (NEVER commit)
+**/build/
+**/.gradle/
+**/*.dex
+**/*.class
