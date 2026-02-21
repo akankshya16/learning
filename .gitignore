@@ -1,0 +1,14 @@
+
+# Android / Gradle build outputs (never commit)
+**/build/
+**/.gradle/
+**/*.apk
+**/*.aab
+**/*.dex
+**/*.class
+
+# Android build outputs
+**/build/
+**/*.class
+**/*.dex
+
